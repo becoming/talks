@@ -15,7 +15,7 @@ background = "#FF4081"
 
 # talks.becoming.tech
 
-- [Static sites](/statis-sites)
+- [Static sites](/static-sites)
 
 [🦄 About this site](/#/1)
 

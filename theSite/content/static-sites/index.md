@@ -1,5 +1,5 @@
 +++
-title = "Bundle example presentation"
+title = "Static Sites"
 outputs = ["Reveal"]
 layout = "bundle"
 [reveal_hugo]
@@ -7,7 +7,7 @@ theme = "night"
 margin = 0.2
 +++
 
-# Page Bundles
+# Static Sites
 
 ---
 
