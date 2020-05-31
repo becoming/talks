@@ -6,7 +6,7 @@ weight = 3
 ⺌∅‿∅⺌
 1. Technical backend, coding
 1. **Content, text, media and portability**
-1. Infrastructure, hosting, domain and caching
+1. Infrastructure, hosting and domain
 
 ---
 

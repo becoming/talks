@@ -6,7 +6,7 @@ weight = 2
 ⺌∅‿∅⺌
 1. **Technical backend, coding**
 1. Content, text, media and portability
-1. Infrastructure, hosting, domain and caching
+1. Infrastructure, hosting and domain
 
 ---
 
@@ -83,3 +83,10 @@ Batteries included, SEO, analytics integration, sitemaps, generation of optimize
 {{% fragment %}}
 <br/>Live reload of changes while coding. No great IDE support in general.
 {{% /fragment %}}
+
+---
+
+## Technical backend
+>Pick your poison
+
+[staticgen.com](https://staticgen.com)

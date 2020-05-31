@@ -9,6 +9,7 @@ weight = 1
 +++
 
 # Static Sites
+by [@rodislavable](https://twitter.com/rodislavable)
 
 ---
 
@@ -53,4 +54,4 @@ therefore easy and fast.
 
 1. Technical backend, coding
 1. Content, text, media and portability
-1. Infrastructure, hosting, domain and caching
+1. Infrastructure, hosting and domain
