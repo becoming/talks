@@ -42,7 +42,7 @@ For a full-length blog post about reveal-hugo, checkout [Harness the Power of St
 
 ### Demos
 
-Jump to the [exampleSite](exampleSite) folder in this repository to see the source code for the above presentation and several more. Here are links to those presentations live:
+Jump to the [theSite](theSite) folder in this repository to see the source code for the above presentation and several more. Here are links to those presentations live:
 
 - [logo-example](https://reveal-hugo.dzello.com/logo-example/) - Shows how to add a logo to your presentation
 - [custom-theme-example](https://reveal-hugo.dzello.com/custom-theme-example/) - Uses Hugo pipes to compile and use a custom Reveal.js SCSS theme (recommended!)
@@ -149,7 +149,7 @@ git submodule update --init
 
 ## Usage
 
-The Usage guide is contained in the example presentation that lives in this repository in the [exampleSite](./exampleSite) directory. You can access a live version at [reveal-hugo.dzello.com](https://reveal-hugo.dzello.com/).
+The Usage guide is contained in the example presentation that lives in this repository in the [theSite](theSite) directory. You can access a live version at [reveal-hugo.dzello.com](https://reveal-hugo.dzello.com/).
 
 ### Root vs. section presentations
 

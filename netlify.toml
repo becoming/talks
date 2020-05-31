@@ -1,6 +1,6 @@
 [build]
-command = "hugo -b $URL -s exampleSite"
-publish = "exampleSite/public"
+command = "hugo -b $URL -s theSite"
+publish = "theSite/public"
 
 [context.production.environment]
 HUGO_VERSION = "0.65.3"
