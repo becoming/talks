@@ -5,26 +5,52 @@ layout = "bundle"
 [reveal_hugo]
 theme = "night"
 margin = 0.2
+weight = 1
 +++
 
 # Static Sites
 
 ---
 
-[Hugo page bundles](https://gohugo.io/content-management/page-bundles/) are a useful way to organize content.
+## Introduction
+
+A static site usually has all the pages pre-rendered, when those are being served to the browser.
+
+{{% eyes-up %}}
+
+{{% fragment %}}With backend {{% /fragment %}}
+
+{{% fragment %}}&nbsp;&nbsp;&nbsp;&nbsp;OR&nbsp;&nbsp;&nbsp;&nbsp;Without backend {{% /fragment %}}
 
 ---
 
-To create a reveal-hugo presentation from the `index.md` file of a leaf page bundle, you need to specify the layout manually.
+## With Backend
 
-```toml
-layout = "bundle"
-```
+Server side rendering. Meaning you can have some backend application that will generate the page.
+
+{{% fragment %}}<br/>For example<br/>{{% /fragment %}}
+
+{{% fragment %}}- **NodeJS** EJS, vuexpress, react, etc.{{% /fragment %}}
+
+{{% fragment %}}- *Others*: Twig, JSP, ASP, etc.{{% /fragment %}}
 
 ---
 
-Why? By default, reveal-hugo doesn't create pages for single template types (foo.md), only for list template types (_index.md).
+## Without backend
+
+Usually pure HTML, CSS and some JS for interactivity,
+therefore easy and fast.
+
+{{% in-love %}}
 
 ---
 
-This technique can also be used to output an HTML file for any section of a presentation, should you need to.
+## We'll focus on last
+
+---
+
+## Anatomy
+
+1. Technical backend, coding
+1. Content, text, media and portability
+1. Infrastructure, hosting, domain and caching
