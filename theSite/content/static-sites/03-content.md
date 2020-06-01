@@ -4,9 +4,9 @@ weight = 3
 
 ## Next
 ⺌∅‿∅⺌
-1. Technical backend, coding
-1. **Content, text, media and portability**
-1. Infrastructure, hosting and domain
+1. Technical backend, coding.
+1. **Content, text, media and portability**.
+1. Infrastructure, hosting and domain.
 
 ---
 
@@ -19,7 +19,7 @@ The *actual business value*, text and all kind of media like images, videos, etc
 {{% /fragment %}}
 
 {{% fragment %}}
-Creation of the content is one of <br/>the **most underestimated** part
+Creation of the content is one of <br/>the **most underestimated** part.
 {{% /fragment %}}
 
 ---

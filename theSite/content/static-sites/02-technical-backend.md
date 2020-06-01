@@ -15,9 +15,9 @@ weight = 2
 {{% toss-computer %}}
 
 {{% fragment %}}
-1. Pure HTML, CSS, JS
-1. Your own *bicycle-generator-engine*
-1. A static site generator
+1. Pure HTML, CSS, JS.
+1. Your own *bicycle-generator-engine*.
+1. A static site generator.
 {{% /fragment %}}
 
 ---

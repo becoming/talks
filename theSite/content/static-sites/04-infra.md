@@ -4,9 +4,9 @@ weight = 4
 
 ## Next
 ⺌∅‿∅⺌
-1. Technical backend, coding
-1. Content, text, media and portability
-1. **Infrastructure, hosting and domain**
+1. Technical backend, coding.
+1. Content, text, media and portability.
+1. **Infrastructure, hosting and domain**.
 
 ---
 
@@ -42,7 +42,7 @@ Own or rented server with some *nginx* or *apache2*.
 >Hosting, Pages
 
 {{% fragment %}}
-GitHub - GitLab - Bitbucket pages, url like https://project.github.io
+GitHub - GitLab - Bitbucket pages, url like https://project.github.io.
 {{% /fragment %}}
 
 {{% fragment %}}
@@ -84,7 +84,7 @@ If you plan to use a custom domain, it is critical to make sure of these two thi
 {{% /fragment %}}
 
 {{% fragment %}}
-<br/>2. The deployment platform gives you support for custom domains and *https*
+<br/>2. The deployment platform gives you support for custom domains and *https*.
 {{% /fragment %}}
 
 ---
