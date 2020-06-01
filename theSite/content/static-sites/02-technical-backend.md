@@ -53,7 +53,7 @@ Offers pure joy of coding.<br/>Need an element ? Code or import it!
 ---
 
 ## Technical backend
->A static site generator 1/2
+>A static site generator 1/3
 
 {{% fragment %}}
 95% of your efforts will go to create content, therefore to the business value.
@@ -70,7 +70,7 @@ Offers pure joy of coding.<br/>Need an element ? Code or import it!
 ---
 
 ## Technical backend
->A static site generator 2/2
+>A static site generator 2/3
 
 {{% fragment %}}
 Batteries included, SEO, analytics integration, sitemaps, generation of optimized static pages, etc.
@@ -82,6 +82,20 @@ Batteries included, SEO, analytics integration, sitemaps, generation of optimize
 
 {{% fragment %}}
 <br/>Live reload of changes while coding. No great IDE support in general.
+{{% /fragment %}}
+
+---
+
+## Technical backend
+>A static site generator 3/3
+
+{{% fragment %}}
+Specialized ones, to show specific content in a specific format.
+{{% /fragment %}}
+
+{{% fragment %}}
+1. [Storybook](https://storybook.js.org/), great for creating libraries of components, [example](https://jetbrains.github.io/ring-ui/master/index.html?path=/story/components-auth-dialog--dialog)
+1. [Jupyter](https://jupyter.org/), great for creating data manipulation "_notebooks_", [example](https://jupyter.org/try)
 {{% /fragment %}}
 
 ---
